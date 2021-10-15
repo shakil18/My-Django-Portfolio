@@ -11,8 +11,9 @@
 <!-- ABOUT THE PROJECT -->
 # My-Django-Portfolio <a name = "about_the_project"></a>
 
+This is my personal virtual portfolio. This is a dynamic Web application. This project is built with Python/Django, HTML5/CSS3, Bootstrap, and JavaScript. A simple yet beautiful with many features. 
 
-> ![image](./images/system_arch.jpg)
+> ![Gif](Intro.gif)
 
 
 <br />
